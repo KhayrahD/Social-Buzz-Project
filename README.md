@@ -1,6 +1,6 @@
 # Social-Buzz-Project
-I participated in the Accenture Data Analytics Virtual Experience with The Forage. It is an open access program and you can find it here 
-As the data analyst on a project for an organization named Social Buzz, I was primarily responsible for completing hands-on analysis of data and translating the requirements of the project into insights.
+I participated in the Accenture Data Analytics Virtual Experience with The Forage. It is an open access program and you can find it at https://www.theforage.com/fast-track/data-analytics-virtual-experience/overview?ref=BdAb9iBPBBTrrpk9Q
+As a virtual experience program participant at Accenture, I worked on a project for a company named Social Buzz where I was primarily responsible for completing hands-on analysis of tghe company's data and translating the requirements of the project into insights.
 
 # Project Brief
 Client's Name: Social Buzz.
