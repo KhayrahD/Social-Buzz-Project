@@ -13,7 +13,7 @@ Business Problem: Social buzz is a fast-growing company and they are gathering l
 3.	Preparing data visualizations on Microsoft Power BI platform to tell a story with provided data.
 4.	Preparing a presentation to the client to share insights from the data using Microsoft PowerPoint.
 
-##Tools used to carry out this project include:
+# Tools used to carry out this project include:
 1.	Microsoft SQL Server: This was used for the Data Cleaning and Data Modelling processes.
 2.	Microsoft Power BI: This used for the Data Visualization process.
 3.	Microsoft Power Point: This was used for the presentation of insights from the data to stakeholders.
