@@ -239,3 +239,10 @@ FROM SocialBuzz
 GROUP BY DATEPART(Month, Date)
 ORDER BY DATEPART(Month, Date)
 
+
+--Sentiment towards content type
+SELECT COUNT (content_type) AS Count_Cont_Type,
+Sentiment 
+FROM SocialBuzz
+GROUP BY Sentiment
+ORDER BY 1 DESC
