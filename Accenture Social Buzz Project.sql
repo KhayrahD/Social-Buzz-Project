@@ -210,15 +210,6 @@ GROUP BY DATEPART(Month, Date)
 ORDER BY 2 DESC
 
 
--- to get the Category with the highest number of posts
-SELECT TOP 1
-	Category,
-	COUNT(*) AS Posts
-FROM SocialBuzz
-GROUP BY Category
-ORDER BY 2 DESC
-
-
 -- to get top 5 categories by Score
 SELECT TOP 5 Category, SUM(CAST(Score AS int)) AS TotalScore
 FROM SocialBuzz
@@ -247,20 +238,4 @@ SELECT
 FROM SocialBuzz
 GROUP BY DATEPART(Month, Date)
 ORDER BY DATEPART(Month, Date)
-
---to get the total number of posts by category
-SELECT
-	Category,
-	COUNT(*) AS posts
-FROM SocialBuzz
-GROUP BY Category
-ORDER BY 2 DESC
-
---to get the total number of posts by content_type
-SELECT
-	content_type,
-	COUNT(*) AS posts
-FROM SocialBuzz
-GROUP BY content_type
-ORDER BY 2 DESC
 
